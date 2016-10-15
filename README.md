@@ -1,5 +1,7 @@
 # IAMDinosaur
 
+https://www.youtube.com/watch?v=P7XHzqZjXQs
+
 ![IAMDinosaur](https://raw.githubusercontent.com/ivanseidel/IAMDinosaur/master/assets/top_score.png)
 
 A simple artificial intelligence to teach Google Chrome's offline dinosaur to
